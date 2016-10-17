@@ -1,0 +1,21 @@
+{
+  "name": "yeltsin.github.io",
+  "description": "Yeltsin Lima Resume",
+  "main": "index.js",
+  "authors": [
+    "Yeltsin Lima"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "yeltsin",
+    "lima",
+    "online",
+    "resume",
+    "git"
+  ],
+  "homepage": "https://github.com/yeltsin/yeltsin.github.io",
+  "dependencies": {
+    "adaptive.background": "^1.0.3",
+    "jquery": "^3.1.1"
+  }
+}
